@@ -1,0 +1,2 @@
+ paso  1 crear la bd de datos con el nombre que aparece en el script la cula esta en la carpeta bd
+ paso 2  copiar la carpeta pruebaphpluisbayona  ala carpeta del servidor  
